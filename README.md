@@ -1,4 +1,4 @@
-#Database-assignment
+# Service d’ambulances
 On souhaite concevoir une base de données pour une entreprise de soins de santé d’urgence qui exploite une flotte d’ambulances. Les
 ambulances de cette entreprise sont reparties en groupes d’ambulances où chaque ambulance appartient à un seul groupe et où chaque groupe
 d’ambulances est localisé à un seul point de départ. Un point de départ peut être un hôpital ou une clinique médicale disposant d’un service de
