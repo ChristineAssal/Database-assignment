@@ -1,0 +1,63 @@
+﻿id_point_de_depart,temps,duree,distance,type_intervention
+1,2021-04-17 4:05,0.81,2.37,accident velo
+1,2021-04-07 1:55,0.72,3.28,arret cardiaque
+1,2021-04-11 8:00,0.72,1.13,chute
+1,2021-04-21 0:59,1.43,4.75,chute
+1,2021-04-11 22:41,1.03,0.27,arret cardiaque
+1,2021-04-25 19:32,0.94,1.12,accident voiture
+1,2021-04-09 18:24,1.16,1.09,intoxication
+2,2021-04-20 16:28,0.51,3,intoxication
+2,2021-04-12 13:23,1.05,1.16,arret cardiaque
+2,2021-04-27 3:50,0.73,2.57,chute
+2,2021-04-18 13:25,1.19,2.84,accident velo
+2,2021-04-04 14:02,0.93,4.68,intoxication
+3,2021-04-05 8:16,0.92,0.21,arret cardiaque
+3,2021-04-28 5:19,0.93,4.48,accident voiture
+3,2021-04-22 16:20,1.13,3.31,arret cardiaque
+3,2021-04-16 0:43,0.61,1.75,accident voiture
+3,2021-04-11 21:45,0.99,4.13,chute
+3,2021-04-21 10:32,1.35,3.65,accident voiture
+3,2021-04-25 5:11,0.51,3.76,accident voiture
+4,2021-04-10 8:44,0.67,3.66,accident voiture
+4,2021-04-15 2:20,1.17,0.44,arret cardiaque
+4,2021-04-08 9:15,0.59,4.4,arret cardiaque
+4,2021-04-23 1:35,0.63,4.74,intoxication
+4,2021-04-27 15:00,1.13,4,accident voiture
+5,2021-04-10 11:57,0.97,2.8,accident velo
+5,2021-04-09 21:34,0.8,4.3,chute
+5,2021-04-08 12:19,0.67,4.61,intoxication
+5,2021-04-06 4:35,1.04,2.04,chute
+5,2021-04-24 5:57,1.45,2.87,accident velo
+5,2021-04-27 20:52,0.69,2.18,accident velo
+6,2021-04-03 18:27,1.06,4.12,intoxication
+6,2021-04-11 19:50,1.3,1.89,accident voiture
+6,2021-04-25 20:29,1.42,1.44,accident voiture
+6,2021-04-27 16:18,0.69,4.1,intoxication
+6,2021-04-07 23:04,1.15,0.99,accident velo
+6,2021-04-08 5:21,1.45,3.35,intoxication
+7,2021-04-27 6:36,0.86,3.21,accident velo
+7,2021-04-20 0:08,0.82,3.11,intoxication
+7,2021-04-20 20:17,1.13,1.81,arret cardiaque
+7,2021-04-28 21:47,0.54,4.38,accident velo
+7,2021-04-19 23:26,0.56,4.33,accident velo
+7,2021-04-08 23:23,0.7,2.69,chute
+7,2021-04-14 18:36,0.76,3.01,chute
+7,2021-04-10 15:34,1.3,2.83,arret cardiaque
+8,2021-04-15 16:15,0.58,3.67,arret cardiaque
+8,2021-04-06 2:53,1.25,3.83,accident velo
+8,2021-04-15 4:15,1.45,1.13,arret cardiaque
+8,2021-04-14 5:26,0.77,4.87,chute
+9,2021-04-16 19:43,1.18,1.31,chute
+9,2021-04-23 14:54,0.67,3.47,accident velo
+9,2021-04-02 9:39,1.15,3.99,intoxication
+9,2021-04-20 21:24,1.36,2.62,accident velo
+9,2021-04-12 0:42,0.54,3.71,intoxication
+9,2021-04-04 18:17,0.53,2.75,intoxication
+9,2021-04-27 1:20,0.81,3.7,accident voiture
+9,2021-04-28 10:55,0.97,0.22,chute
+10,2021-04-18 13:10,0.52,3.47,arret cardiaque
+10,2021-04-18 18:57,1.49,4.73,accident velo
+10,2021-04-27 22:43,0.85,3.93,arret cardiaque
+10,2021-04-11 9:30,1.41,3.48,accident voiture
+7,2021-04-16 11:31,4,3.21,ecrasement avion
+4,2021-04-16 11:32,3.1,2.7,carambolage

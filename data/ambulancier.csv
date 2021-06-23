@@ -1,0 +1,31 @@
+﻿id_point_de_depart,nom ,prenom,salaire_horaire,numero_telephone,date_naissance,numero_civique,rue,ville,province,code_postal
+1,Parent-Senez,Emma,2593,394-657-7720,1976-08-15,48,Grim,Montreal,QC,H241G6
+1,Assal,Christine,3421,966-651-9200,1974-09-21,30,Reindahl,Montreal,QC,G53178
+2,Morin,Sacha,3498,170-984-5579,1992-03-20,3,Longview,Brossard,QC,TY123
+2,Boudreau,Francis,2633,641-170-6488,1996-12-12,22947,Dwight,Longueuil,QC,M8TU0K
+3,Bassingham,Paten,3194,874-251-9453,1964-08-02,18961,Hanover,Laval,QC,COR76
+3,Kearton,Zed,2661,177-712-4544,1992-08-19,31244,Eggendart,Terrebonne,QC,H241G6
+4,Lockitt,Perl,3485,663-491-6001,1970-11-27,921,Buhler,Montreal,QC,G53178
+4,Shelper,Penn,2917,686-937-9652,1980-01-20,29,Melrose,Montreal,QC,TY123
+5,Silverstone,Catherin,2522,879-103-3539,1981-10-07,181,Graceland,Brossard,QC,M8TU0K
+5,Indge,Margette,2948,315-103-6831,1989-06-08,18419,Vidon,Longueuil,QC,COR76
+6,Ewan,Emelita,2842,189-781-4458,2000-04-20,140,Dunning,Laval,QC,H241G6
+6,Cruttenden,Onofredo,3389,598-328-8200,1989-03-18,94,Transport,Terrebonne,QC,G53178
+7,Symes,Nikola,3378,640-433-2208,1963-06-26,7200,Forster,Montreal,QC,TY123
+7,Gabbitas,Town,2928,362-210-6071,1977-06-18,15,Porter,Montreal,QC,M8TU0K
+8,Gotfrey,Elyse,2719,246-165-1412,1982-06-12,90060,Fairview,Brossard,QC,COR76
+8,Derisley,Eulalie,2502,510-964-6785,1962-05-29,406,Laurel,Longueuil,QC,H241G6
+9,Hiland,Leshia,3436,223-784-9646,1978-01-28,86,Truax,Laval,QC,G53178
+9,Yewdell,Nerta,3201,750-455-1336,1974-03-16,3228,Eastlawn,Terrebonne,QC,TY123
+10,Borer,Xymenes,3293,112-284-4503,2000-09-01,77,Acker,Montreal,QC,M8TU0K
+10,Shorte,Minda,3364,343-152-6822,1966-04-24,77708,Johnson,Montreal,QC,COR76
+7,Drydale,Reinwald,2701,613-972-0628,1986-01-22,6445,Badeau,Brossard,QC,H241G6
+7,Neles,Carolus,2823,843-301-7283,1991-06-01,5636,Toban,Longueuil,QC,G53178
+7,Saltern,Lauri,3273,367-457-3707,1969-07-30,53,John Wall,Laval,QC,TY123
+7,Glasser,Johan,2804,749-172-5228,1971-05-21,95168,Carpenter,Terrebonne,QC,M8TU0K
+7,Downage,Rhodia,3185,649-120-8208,1999-05-31,7,Surrey,Montreal,QC,COR76
+7,Dahle,Granville,2562,378-722-1629,1961-09-06,4,Village Green,Montreal,QC,H241G6
+7,Bastiman,Ilka,3245,936-338-3114,1969-04-23,38,Golf,Brossard,QC,G53178
+4,Cornuau,Marla,3128,296-979-4535,1993-02-28,35,Anderson,Longueuil,QC,TY123
+4,Montfort,Rodolph,3181,280-698-8213,1990-12-09,560,Aberg,Laval,QC,M8TU0K
+4,Seeley,Tammie,2566,439-170-1456,1967-02-04,1,Park Meadow,Terrebonne,QC,COR76
